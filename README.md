@@ -2,6 +2,8 @@
 
 This repository showcases a basic Shiny application built with R, aimed at demonstrating how to structure and develop interactive web applications for sport science data. It serves as a learning resource for those interested in building Shiny apps from scratch.
 
+This site was built using [Shiny App Demo](https://migvidal.shinyapps.io/sport_science_demo/)
+
 Please note that **sport_science_demo_folder** is in a standard directory structure expected by Shiny. Renaming or moving the files in here will result in issues deploying the app.
 
 
